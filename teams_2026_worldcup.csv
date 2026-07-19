@@ -1,0 +1,33 @@
+name,attack,defense,rank
+Argentina,95,92,1
+France,94,89,2
+Brazil,93,91,3
+England,91,87,4
+Belgium,89,86,5
+Croatia,88,84,6
+Netherlands,87,85,7
+Portugal,86,83,8
+Spain,85,88,9
+Italy,84,82,10
+Uruguay,83,80,11
+Morocco,82,81,12
+Germany,81,86,13
+USA,80,79,14
+Mexico,79,78,15
+Japan,78,77,16
+Senegal,77,75,17
+Switzerland,76,76,18
+Iran,75,74,19
+Denmark,74,73,20
+South Korea,73,72,21
+Australia,72,71,22
+Peru,71,70,23
+Sweden,70,69,24
+Poland,69,68,25
+Ukraine,68,67,26
+Wales,67,66,27
+Egypt,66,65,28
+Nigeria,65,64,29
+Canada,64,63,30
+Ecuador,63,62,31
+Saudi Arabia,62,61,32
